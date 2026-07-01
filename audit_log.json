@@ -1,0 +1,191 @@
+[
+  {
+    "event_type": "submission",
+    "timestamp": "2026-07-01T16:10:20.495686+00:00",
+    "content_id": "7db084a3-951c-4713-b09b-f67965e08067",
+    "creator_id": "wendy",
+    "attribution": "uncertain",
+    "confidence": 0.587,
+    "llm_score": 0.5,
+    "llm_reason": "The text has a formal tone and uses complex vocabulary, but the sentence structure is relatively simple and lacks personal touch, making it uncertain whether it's AI-generated or human-written.",
+    "stylometric_score": 0.75,
+    "stylometric_metrics": {
+      "word_count": 32,
+      "sentence_count": 2,
+      "type_token_ratio": 0.875,
+      "avg_sentence_length": 16.0,
+      "sentence_length_variance": 36.0,
+      "punctuation_density": 0.094
+    },
+    "status": "under_review",
+    "appeal_filed": true,
+    "appeal_reasoning": "I wrote this myself from personal experience and would like a human reviewer to reconsider the classification."
+  },
+  {
+    "event_type": "appeal",
+    "timestamp": "2026-07-01T16:12:11.398582+00:00",
+    "content_id": "7db084a3-951c-4713-b09b-f67965e08067",
+    "creator_reasoning": "I wrote this myself from personal experience and would like a human reviewer to reconsider the classification.",
+    "status": "under_review"
+  },
+  {
+    "event_type": "submission",
+    "timestamp": "2026-07-01T16:13:33.198838+00:00",
+    "content_id": "1ff5d0ab-cd4b-4013-8bfc-7db81699cfd3",
+    "creator_id": "ratelimit-test",
+    "attribution": "likely_human",
+    "confidence": 0.175,
+    "llm_score": 0.0,
+    "llm_reason": "simple and direct language, lacks typical AI-generation nuances",
+    "stylometric_score": 0.5,
+    "stylometric_metrics": {
+      "reason": "Text too short for stable stylometric analysis."
+    },
+    "status": "classified",
+    "appeal_filed": false
+  },
+  {
+    "event_type": "submission",
+    "timestamp": "2026-07-01T16:13:33.610378+00:00",
+    "content_id": "6fedf0c5-d85b-4b08-aeeb-700f44aa36c9",
+    "creator_id": "ratelimit-test",
+    "attribution": "likely_human",
+    "confidence": 0.175,
+    "llm_score": 0.0,
+    "llm_reason": "simple and direct language, lacks typical AI-generation nuances",
+    "stylometric_score": 0.5,
+    "stylometric_metrics": {
+      "reason": "Text too short for stable stylometric analysis."
+    },
+    "status": "classified",
+    "appeal_filed": false
+  },
+  {
+    "event_type": "submission",
+    "timestamp": "2026-07-01T16:13:33.985439+00:00",
+    "content_id": "79bd121a-9ee1-4270-b5d0-f111f93e650b",
+    "creator_id": "ratelimit-test",
+    "attribution": "likely_human",
+    "confidence": 0.175,
+    "llm_score": 0.0,
+    "llm_reason": "simple and direct language, lacks typical AI-generation nuances",
+    "stylometric_score": 0.5,
+    "stylometric_metrics": {
+      "reason": "Text too short for stable stylometric analysis."
+    },
+    "status": "classified",
+    "appeal_filed": false
+  },
+  {
+    "event_type": "submission",
+    "timestamp": "2026-07-01T16:13:34.440115+00:00",
+    "content_id": "c66bcfa3-b33d-4f3f-8897-d87264e1a92f",
+    "creator_id": "ratelimit-test",
+    "attribution": "likely_human",
+    "confidence": 0.175,
+    "llm_score": 0.0,
+    "llm_reason": "simple and direct language, lacks typical AI-generation nuances",
+    "stylometric_score": 0.5,
+    "stylometric_metrics": {
+      "reason": "Text too short for stable stylometric analysis."
+    },
+    "status": "classified",
+    "appeal_filed": false
+  },
+  {
+    "event_type": "submission",
+    "timestamp": "2026-07-01T16:13:34.759059+00:00",
+    "content_id": "651ddc72-ab27-44c5-b9fd-960a04ee4b53",
+    "creator_id": "ratelimit-test",
+    "attribution": "likely_human",
+    "confidence": 0.175,
+    "llm_score": 0.0,
+    "llm_reason": "simple and direct language, lacks typical AI-generation nuances",
+    "stylometric_score": 0.5,
+    "stylometric_metrics": {
+      "reason": "Text too short for stable stylometric analysis."
+    },
+    "status": "classified",
+    "appeal_filed": false
+  },
+  {
+    "event_type": "submission",
+    "timestamp": "2026-07-01T16:13:35.143670+00:00",
+    "content_id": "0251cef2-e94c-4f8e-a5b2-7588f1cbae5f",
+    "creator_id": "ratelimit-test",
+    "attribution": "likely_human",
+    "confidence": 0.175,
+    "llm_score": 0.0,
+    "llm_reason": "simple and direct language, lacks typical AI-generation nuances",
+    "stylometric_score": 0.5,
+    "stylometric_metrics": {
+      "reason": "Text too short for stable stylometric analysis."
+    },
+    "status": "classified",
+    "appeal_filed": false
+  },
+  {
+    "event_type": "submission",
+    "timestamp": "2026-07-01T16:13:35.547294+00:00",
+    "content_id": "0ea95fdd-32a2-4a4c-8157-6ee76cf0bb0f",
+    "creator_id": "ratelimit-test",
+    "attribution": "likely_human",
+    "confidence": 0.175,
+    "llm_score": 0.0,
+    "llm_reason": "simple and direct language, lacks typical AI-generated nuances",
+    "stylometric_score": 0.5,
+    "stylometric_metrics": {
+      "reason": "Text too short for stable stylometric analysis."
+    },
+    "status": "classified",
+    "appeal_filed": false
+  },
+  {
+    "event_type": "submission",
+    "timestamp": "2026-07-01T16:13:36.059847+00:00",
+    "content_id": "3d561132-6434-43f9-a176-6003714426d7",
+    "creator_id": "ratelimit-test",
+    "attribution": "likely_human",
+    "confidence": 0.175,
+    "llm_score": 0.0,
+    "llm_reason": "simple and direct language, lacks typical AI-generated nuances",
+    "stylometric_score": 0.5,
+    "stylometric_metrics": {
+      "reason": "Text too short for stable stylometric analysis."
+    },
+    "status": "classified",
+    "appeal_filed": false
+  },
+  {
+    "event_type": "submission",
+    "timestamp": "2026-07-01T16:13:36.365265+00:00",
+    "content_id": "fadd79da-19a6-4955-aa91-5275085e3b27",
+    "creator_id": "ratelimit-test",
+    "attribution": "likely_human",
+    "confidence": 0.175,
+    "llm_score": 0.0,
+    "llm_reason": "simple and direct language, lacks typical AI-generation nuances",
+    "stylometric_score": 0.5,
+    "stylometric_metrics": {
+      "reason": "Text too short for stable stylometric analysis."
+    },
+    "status": "classified",
+    "appeal_filed": false
+  },
+  {
+    "event_type": "submission",
+    "timestamp": "2026-07-01T16:13:36.769684+00:00",
+    "content_id": "2695357e-987e-4047-b290-e11d8c3fb435",
+    "creator_id": "ratelimit-test",
+    "attribution": "likely_human",
+    "confidence": 0.175,
+    "llm_score": 0.0,
+    "llm_reason": "simple and direct language, lacks typical AI-generated nuances",
+    "stylometric_score": 0.5,
+    "stylometric_metrics": {
+      "reason": "Text too short for stable stylometric analysis."
+    },
+    "status": "classified",
+    "appeal_filed": false
+  }
+]
