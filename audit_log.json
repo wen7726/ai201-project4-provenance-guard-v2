@@ -19,14 +19,16 @@
     },
     "status": "under_review",
     "appeal_filed": true,
-    "appeal_reasoning": "I wrote this myself from personal experience and would like a human reviewer to reconsider the classification."
+    "appeal_reasoning": "I wrote this myself."
   },
   {
     "event_type": "appeal",
     "timestamp": "2026-07-01T16:12:11.398582+00:00",
     "content_id": "7db084a3-951c-4713-b09b-f67965e08067",
     "creator_reasoning": "I wrote this myself from personal experience and would like a human reviewer to reconsider the classification.",
-    "status": "under_review"
+    "status": "under_review",
+    "appeal_filed": true,
+    "appeal_reasoning": "I wrote this myself."
   },
   {
     "event_type": "submission",
@@ -187,5 +189,12 @@
     },
     "status": "classified",
     "appeal_filed": false
+  },
+  {
+    "event_type": "appeal",
+    "timestamp": "2026-07-02T06:55:30.019342+00:00",
+    "content_id": "7db084a3-951c-4713-b09b-f67965e08067",
+    "creator_reasoning": "I wrote this myself.",
+    "status": "under_review"
   }
 ]

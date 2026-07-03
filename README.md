@@ -1,3 +1,13 @@
+# Portfolio Walkthrough
+
+A short walkthrough of Provenance Guard demonstrating the system end-to-end is available here:
+
+▶️ **Portfolio Walkthrough Video**
+
+https://drive.google.com/file/d/1wBCt5BN3l5Pup3kwFkW713o0SDm2uvYL/view?usp=share_link
+
+
+
 # Provenance Guard
 
 1. Project Overview
@@ -141,7 +151,9 @@ Classification thresholds
 | 0.40–0.69 | Uncertain |
 | 0.70–1.00 | Likely AI |
 
-This conservative scoring strategy intentionally reduces false positives by requiring stronger evidence before labeling content as AI-generated.
+The confidence score is designed to represent agreement across multiple sources of evidence rather than simply reporting the LLM’s opinion. I assigned a higher weight (60%) to the LLM detector because it evaluates broader linguistic patterns, while stylometric analysis (40%) provides explainable statistical evidence that can either reinforce or weaken the overall assessment. When the two signals disagree, the confidence naturally decreases and often results in the “Uncertain” classification.
+
+In a production deployment, these weights would not be manually selected. Instead, they would be learned and calibrated using a labeled validation dataset to optimize precision, recall, and false-positive rates.
 
 ## Example 1
 
